@@ -1,0 +1,4 @@
+ollama
+PyPDF2
+torch
+tk
